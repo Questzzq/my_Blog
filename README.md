@@ -1,16 +1,14 @@
 ## [Eric Tseng](https://github.com/Questzzq/my_Blog/tree/master/)
 
-> **博客签名：若批评无自由，则赞美无意义。**
+> **博客签名：这一刹 我只需要 一罐热茶吧**
 
-> **博客目的：风起于青萍之末，浪成于微澜之间。**
+> **博客目的：记录与总结，知识与心智。**
 
-> **博客宗旨：从现象看本质，再从本质回归到现象。**
-
-> **博客主人：Too young,too simple.Sometimes,naive.**
+> **博客主人：Eric Tseng**
                
-> **博客座右铭：生活不止裆下的苟且，还有未知的bug和看不懂的code。**
+> **博客座右铭：Come morning light, you and I'll be safe and sound.**
 
-**行远自迩，登高自卑，与君共勉。文以载道，歌以咏志。** 
+**我们一路奋战，不是为了改变世界，而是不让世界改变我们。** 
 
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
 ## 2018
